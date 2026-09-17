@@ -1,0 +1,13 @@
+div {
+  font-size: larger;
+  color: rgb(212, 113, 173);
+  background-color: blanchedalmond;
+  text-align: center;
+  font-display: fallback;
+}
+
+.backgroundcolor {
+  background-color: rgb(135, 111, 126);
+  text-align: center;
+  font-weight: lighter;
+}
